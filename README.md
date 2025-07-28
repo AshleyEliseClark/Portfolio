@@ -1,6 +1,3 @@
-# Portfolio
-
-
 # Ashley E. Clark – Professional Portfolio
 
 This repository contains professional references, letters of recommendation, and detailed work summaries from my roles.
