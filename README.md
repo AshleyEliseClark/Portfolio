@@ -3,7 +3,7 @@ This repository contains professional references, letters of recommendation, and
 
 
 
-# 🌟 STAR Method Project Description  
+# 🌟 STAR Method Impact  
 Explore detailed descriptions of my contributions using the Situation–Task–Action–Result framework.
 
 ## 🏥 UAB Medicine – Sr. Business Intelligence Analyst  
