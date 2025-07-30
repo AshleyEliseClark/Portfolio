@@ -1,5 +1,5 @@
 # Ashley E. Clark – Professional Portfolio
-This repository contains professional references, letters of recommendation, and project descriptions from 2 most recent roles.
+This repository contains and project descriptions from 2 most recent roles and letters of recommendation from colleagues & supervisors, 
 
 
 
