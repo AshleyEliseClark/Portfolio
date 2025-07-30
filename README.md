@@ -10,7 +10,7 @@ Explore detailed descriptions of my contributions using the Situation–Task–A
 
 ## 🏥 UAB Medicine – Sr. Business Intelligence Analyst  
 
-**Tools:** Mckesson Explorer, Power BI, Tableau, SQL, Excel, ETL, EDW (Enterprise Data Warehouse) → EPIC (Electronic Health Records) 
+**Tools:** Mckesson Explorer & BI Analytics, Power BI, Tableau, SQL, Excel, ETL, EDW (Enterprise Data Warehouse) → EPIC (Electronic Health Records) 
 **Collaborators:** Executive, Clinical & Administrative Department Leadership/Directors, Data Architects & Engineers         
 **Quantitative Data Sources:** UAB Operating Room, Heart & Vascular Center, Surgical, Inpatient Days, Infusion, Emergency Department, Charges, Pharmacy, Census
 
