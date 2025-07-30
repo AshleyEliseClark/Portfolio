@@ -28,12 +28,12 @@ Built & maintained enterprise dashboards and query templates. Mentored junior an
 **Result:**  
 Boosted data transparency, improved financial management, and reduced performance reporting latency by 20%. Strengthened internal analytics capacity and adoption.
 
+
+
 **Tools:**  
 Mckesson Explorer, Power BI, Tableau, SQL, Excel, ETL, EDW (Enterprise Data Warehouse) → EPIC (Electronic Health Records)
-
 **Collaborators:**  
 Executive, Clinical & Administrative Department Leadership/Directors, Data Architects & Engineers
-
 **Quantitative Data Sources:**  
 UAB Operating Room, Heart & Vascular Center, Surgical, Inpatient Days, Infusion, Emergency Department, Charges, Pharmacy, Census
 
