@@ -1,9 +1,7 @@
 # Ashley E. Clark – Professional Portfolio
-This repository contains professional references, letters of recommendation, and detailed work summaries from FT roles.
+This repository contains professional references, letters of recommendation, and detailed work summaries from 2 most recent roles.
 
 
-## 📄 Letters of Recommendation
-View endorsements from colleagues and supervisors.
 
 # 🌟 STAR Method Project Description  
 Explore detailed descriptions of my contributions using the Situation–Task–Action–Result framework.
@@ -29,21 +27,14 @@ Explore detailed descriptions of my contributions using the Situation–Task–A
 **Result:**  Boosted data transparency, improved financial management, and reduced performance reporting latency by 20%. Strengthened internal analytics capacity and adoption.
 
 
-
-
-
-
-
-
-
-
-
 ---
 
 ## 📊 CAC Specialty Insurance – Data Infrastructure & Analytics Specialist  
-**Tools:** Python, SQL, Tableau, Power BI, Excel  
+**Tools:** Python, SQL, AWS, ETL
+**Collaborators** Chief Operartion Officer, 3rd Party IT, Insurance LOB, Sales 
+**Data** Insureance Lines of Business & Sales CRM
 
-**Situation:** The organization faced fragmented data operations and unreliable reporting.  
-**Task:** Overhaul BI architecture and institute scalable data engineering workflows.  
-**Action:** Designed Python/SQL ETL pipelines, created dashboard templates in Power BI/Tableau, and automated weekly reporting systems.  
-**Result:** Improved reporting accuracy and speed by 36%, enabling faster business-critical decision-making.**
+**Situation:** Instances of fragmented, dated, duplicate data & integrity issues undermined platform reliability and delayed decison-making.   
+**Task:** Establish a resilient data infrastructure to resolve inconsistencies, enforce data governance, and enable consistent delivery of clean datasets to support strategic business intelligence dashboards.
+**Action:** Partnered with lines of business to define data requirements. Engineered Python/SQL-based ETL workflows to cleanse and reconcile disparate datasets from internal systems and cloud-based (AWS) sources
+**Result:** Boosted reporting accuracy by 36%, accelerating business-critical decisions. Strengthened website and dashboard reliability- supporting improved data accessibility, client engagement, and revenue growth.
