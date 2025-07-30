@@ -25,7 +25,9 @@ Explore detailed descriptions of my contributions here using the Situation–Tas
 **Result:** Boosted data transparency, improved financial management and reduced performance reporting latency by 20%. Strengthened internal analytics capacity and adoption.
 
 **Tools:** Mckesson Explorer, Power BI, Tableau SQL, Excel, ETL, EDW-Enterprise Data Warehouse -->EPIC (electronic health records)
+
 **Collaborators:** Executive, Clinical & Administrative Department Leadership/Directors, Data Archtects & Engineers.
+
 **Quantitative Data Sources:** UAB Operating Room, Heart &* Vascular Center, Surgical, Inpatient Days, Infusion, Emergency Department, Charges, Pharmacy, Census
 
 ---
