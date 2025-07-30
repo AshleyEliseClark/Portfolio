@@ -31,8 +31,8 @@ Explore detailed descriptions of my contributions using the Situation–Task–A
 
 ## 📊 CAC Specialty Insurance – Data Infrastructure & Analytics Specialist  
 **Tools:** Python, SQL, AWS, ETL   
-**Collaborators** Chief Operartion Officer, 3rd Party IT, Insurance LOB, Sales   
-**Data** Insureance Lines of Business & Sales CRM   
+**Collaborators:** Chief Operartion Officer, 3rd Party IT, Insurance LOB, Sales   
+**Data:** Insureance Lines of Business & Sales CRM   
 
 **Situation:** Instances of fragmented, dated, duplicate data & integrity issues undermined platform reliability and delayed decison-making.  
 
