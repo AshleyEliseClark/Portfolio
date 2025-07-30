@@ -5,7 +5,7 @@ This repository contains professional references, letters of recommendation, and
 
 
 
-# 🌟 STAR Method
+# 🌟 STAR Method Project Description
 Explore detailed descriptions of my contributions using the Situation–Task–Action–Result framework.
 
 ## 🏥 UAB Medicine – Sr. Business Intelligence Analyst  
@@ -18,10 +18,11 @@ Explore detailed descriptions of my contributions using the Situation–Task–A
 
 **Task:**  Define KPIs such as ALOS, budget, cases & encounters with leadership. Developed & led strategy execution for scalable BI solutions.
 
-**Action:**  Built & maintained enterprise dashboards and query templates. Mentored junior analysts and standardized documentation workflows.  
+**Action:**  Built & maintained enterprise dashboards and query templates.
 - DAILY OPERATIONS SUMMARY dashboard  
 - SPECIALTY PHARMACY dashboard & reporting  
-- PERIOPERATIVE dashboard  
+- PERIOPERATIVE dashboard
+- Emergency Dep. dashboard & reporting 
 - DAILY, WEEKLY & MONTH END STATS reporting  
 - P&L, GL reporting  
 - AdHoc requests
