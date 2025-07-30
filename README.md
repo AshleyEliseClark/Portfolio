@@ -36,7 +36,7 @@ Explore detailed descriptions of my contributions using the Situation–Task–A
 
 **Situation:** Instances of fragmented, dated, duplicate data & integrity issues undermined platform reliability and delayed decison-making.  
 
-**Task:** Establish a resilient data infrastructure to resolve inconsistencies, enforce data governance, and enable consistent delivery of clean datasets to support strategic business intelligence analytics.
+**Task:** Establish a resilient data infrastructure to resolve inconsistencies, enforce data governance, and enable consistent delivery of clean datasets to support strategic business intelligence analytics platforms.
 
 **Action:** Partnered with lines of business to define data requirements. 
             Collaborated with Analytics leadership to redesigning schema & implementing new pipelines. 
