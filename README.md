@@ -9,9 +9,6 @@ View endorsements from colleagues and supervisors.
 Explore detailed descriptions of my contributions here using the Situation–Task–Action–Result framework.
 
 **## 🏥 UAB Medicine – Sr. Business Intelligence Analyst  
-**Tools:** Power BI, Tableau SQL, Excel, ETL, EDW-Enterprise Data Warehouse -->EPIC (electronic health records)
-**Collaborators:** Executive, Clinical & Administrative Department Leadership/Directors, Data Archtects & Engineers.
-**Quantitative Data Sources** UAB Operating Room, Heart &* Vascular Center, Surgical, Inpatient Days, Infusion, Emergency Department, Charges, Pharmacy, Census
 
 **Situation:** UAB Medicine required clearer performance tracking and improved visibility for decision-makers. 
 
@@ -25,9 +22,11 @@ Explore detailed descriptions of my contributions here using the Situation–Tas
                P&L, GL reporting
                AdHoc
                
-**Result:** Boosted data transparency and reduced performance reporting latency by 20%. Strengthened internal analytics capacity and adoption.
+**Result:** Boosted data transparency, improved financial management and reduced performance reporting latency by 20%. Strengthened internal analytics capacity and adoption.
 
-    Collaborators: Executive leadership, Clinical & Administrative Department Leadership/Directors, Data Archtects & Engineers.
+**Tools:** Mckesson Explorer, Power BI, Tableau SQL, Excel, ETL, EDW-Enterprise Data Warehouse -->EPIC (electronic health records)
+**Collaborators:** Executive, Clinical & Administrative Department Leadership/Directors, Data Archtects & Engineers.
+**Quantitative Data Sources** UAB Operating Room, Heart &* Vascular Center, Surgical, Inpatient Days, Infusion, Emergency Department, Charges, Pharmacy, Census
 
 ---
 
