@@ -30,11 +30,14 @@ Explore detailed descriptions of my contributions using the Situation–Task–A
 ---
 
 ## 📊 CAC Specialty Insurance – Data Infrastructure & Analytics Specialist  
-**Tools:** Python, SQL, AWS, ETL
-**Collaborators** Chief Operartion Officer, 3rd Party IT, Insurance LOB, Sales 
-**Data** Insureance Lines of Business & Sales CRM
+**Tools:** Python, SQL, AWS, ETL   
+**Collaborators** Chief Operartion Officer, 3rd Party IT, Insurance LOB, Sales   
+**Data** Insureance Lines of Business & Sales CRM   
 
-**Situation:** Instances of fragmented, dated, duplicate data & integrity issues undermined platform reliability and delayed decison-making.   
+**Situation:** Instances of fragmented, dated, duplicate data & integrity issues undermined platform reliability and delayed decison-making.  
+
 **Task:** Establish a resilient data infrastructure to resolve inconsistencies, enforce data governance, and enable consistent delivery of clean datasets to support strategic business intelligence dashboards.
-**Action:** Partnered with lines of business to define data requirements. Engineered Python/SQL-based ETL workflows to cleanse and reconcile disparate datasets from internal systems and cloud-based (AWS) sources
+
+**Action:** Partnered with lines of business to define data requirements. Engineered Python/SQL-based ETL workflows to cleanse and reconcile disparate datasets from internal systems and cloud-based (AWS) sources.
+
 **Result:** Boosted reporting accuracy by 36%, accelerating business-critical decisions. Strengthened website and dashboard reliability- supporting improved data accessibility, client engagement, and revenue growth.
