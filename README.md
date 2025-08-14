@@ -5,10 +5,10 @@ This repository contains and project descriptions from 2 most recent roles and l
 
 
 
-## 🌟 STAR Method Project Description
+## STAR Method Project Description
 Explore detailed descriptions of my contributions using the Situation–Task–Action–Result framework.
 
-### 🏥 UAB Medicine – Sr. Business Intelligence Analyst  
+###UAB Medicine – Sr. Business Intelligence Analyst  
 
 **Tools:** Mckesson Explorer & BI Analytics, Power BI, Tableau, SQL, Excel, ETL, EDW (Enterprise Data Warehouse) → EPIC (Electronic Health Records) 
 **Collaborators:** Executive, Clinical & Administrative Department Leadership/Directors, Data Architects & Engineers         
@@ -32,7 +32,7 @@ Explore detailed descriptions of my contributions using the Situation–Task–A
 
 ---
 
-### 📊 CAC Specialty Insurance – Data Infrastructure & Analytics Specialist  
+### CAC Specialty Insurance – Data Infrastructure & Analytics Specialist  
 **Tools:** Excel, Python, SQL, AWS, ETL    
 **Collaborators:** Chief Operartion Officer, CAC Analytics Team, 3rd Party IT, Insurance LOB, Sales   
 **Data:** Insureance Lines of Business & Sales CRM   
